@@ -1,0 +1,1 @@
+demonstrating how to use echo, now this text will be entered in the file i mention, it goes something like echo __text__ greaten_than_sign __filename__
