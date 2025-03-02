@@ -1,1 +1,2 @@
-demonstrating how to use echo, now this text will be entered in the file i mention, it goes something like echo __text__ greaten_than_sign __filename__
+now modifying the contents of file using echo
+and if you want to append some text instead of replacing, use the greater_than_sign twice like this
