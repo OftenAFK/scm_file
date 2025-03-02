@@ -1,0 +1,2 @@
+using git push -u origin main sets the upstream branch for main, making the
+future git push and pull commands to be able to fucntioon without specifying the remote and the branch.
